@@ -1,0 +1,10 @@
+[user]
+	name = dj
+	email = davejagoda+github@gmail.com
+[log]
+	date = iso
+[push]
+	default = simple
+[core]
+	excludesfile = ~/.gitignore_global
+	ignoreCase = false
