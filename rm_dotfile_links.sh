@@ -1,6 +1,6 @@
 #!/bin/sh
 
-for dotfile in ~/src/github/dotfiles/.??*
+for dotfile in `dirname "$0"`/.??*
 do
     if [ `basename $dotfile` != ".git" ]
     then
