@@ -1,4 +1,5 @@
 (setq inhibit-startup-screen t)
+(setq-default indent-tabs-mode nil)
 (require 'whitespace)
 (setq whitespace-style '(face empty tabs lines-tail trailing))
 (global-whitespace-mode t)
