@@ -125,3 +125,5 @@ fi
 if [ -f /Library/Developer/CommandLineTools/usr/share/git-core/git-completion.bash ]; then
     . /Library/Developer/CommandLineTools/usr/share/git-core/git-completion.bash
 fi
+
+export EDITOR=emacs
