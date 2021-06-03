@@ -1,4 +1,6 @@
 alias h='history'
 alias mv='mv -i'
 alias rm='rm -i'
+alias emacs='emacs -nw'
 alias s='w | grep "  s0" | wc -l'
+alias t='~/src/github/proggy/osascript/count_safari_tabs.scpt'
