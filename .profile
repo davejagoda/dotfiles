@@ -27,3 +27,4 @@ if [ -d "$HOME/.local/bin" ] ; then
 fi
 
 export EDITOR=emacs
+export PYTHONDONTWRITEBYTECODE=1
