@@ -8,3 +8,5 @@
 [core]
 	excludesfile = ~/.gitignore_global
 	ignoreCase = false
+[init]
+	defaultBranch = main
